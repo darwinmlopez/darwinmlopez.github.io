@@ -30,12 +30,12 @@ Current University of Washington student studying Geography: Data Science. My pe
 - Population Density Affecting Living Conditions Research: Using machine learning to model state-level socio-economic variables and determine associations with living conditions (Research, 2022).
 
 ## Clark College (Vancouver, Wa)
-*[UW][] AA Biology.*
+*[Clark][] AA Biology.*
 
 - Accomplishment that contains **bold text**.
 - Hybrid Engines Research: Examining the difference between Hybrid and Electric engines (Literature review, 2019).
 - Gastropod Research Project Research: Exploring the Effects of Fluctuating Prey Populations on the Predatory Lance tooth Population in the Gorge Washington (Research, 2019).
 
 
-[University 1]: http://www.washington.edu
-[University 2]: http://www.clark.edu
+[UW]: http://www.washington.edu
+[Clark]: http://www.clark.edu
