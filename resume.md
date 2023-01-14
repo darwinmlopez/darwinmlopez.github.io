@@ -22,7 +22,7 @@ Current University of Washington student studying Geography: Data Science. My pe
 
 ## University of Washington (Seattle, Wa)
 
-* [University 1][] Geography: Data Science.*
+* [UW][] Geography: Data Science.*
 
 - Accomplishment that contains **bold text**.
 - Coursework in data management, data visualization, programming, machine learning, and advanced statistics and probability
@@ -30,7 +30,7 @@ Current University of Washington student studying Geography: Data Science. My pe
 - Population Density Affecting Living Conditions Research: Using machine learning to model state-level socio-economic variables and determine associations with living conditions (Research, 2022).
 
 ## Clark College (Vancouver, Wa)
-*[University 2][] AA Biology.*
+*[UW][] AA Biology.*
 
 - Accomplishment that contains **bold text**.
 - Hybrid Engines Research: Examining the difference between Hybrid and Electric engines (Literature review, 2019).
